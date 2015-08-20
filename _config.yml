@@ -1,0 +1,12 @@
+# Site settings
+title: Katyusha96
+email: kate.markov.96@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My blog and website.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://katyusha96.github.io" # the base hostname & protocol for your site
+#twitter_username: 
+github_username:  Katyusha96
+
+# Build settings
+markdown: kramdown
